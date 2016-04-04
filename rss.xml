@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pioneers UK]]></title>
         <description><![CDATA[Pioneers UK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pioneers-uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 13:10:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 13:12:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pioneers-uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JOIN THE MISSION]]></title>
             <description><![CDATA[<article><h1>JOIN THE MISSION</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16b4589b24dbbeb086196bf3adbcc8840e04a60b.jpg"></article>]]></description>
-            <link>undefinedjoin-the-mission/index.html</link>
+            <link>https://thegrid.ai/pioneers-uk/join-the-mission/index.html</link>
             <guid isPermaLink="false">370a5167-0065-4308-af86-e2e894dfdd1b</guid>
-            <pubDate>Mon, 04 Apr 2016 13:10:49 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 13:12:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
