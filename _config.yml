@@ -1,0 +1,28 @@
+name: Pioneers UK
+favicon: null
+layout_spectrum: 0.2385867324192077
+typography_spectrum: 0.7370637399144471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2672898641321808
+  lightness: 0.40917322994209826
+  saturation: 0.30819225241430104
+  rhythmicContrast: 0.6297580040991306
+purpose: []
